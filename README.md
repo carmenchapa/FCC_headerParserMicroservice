@@ -6,7 +6,7 @@ User stories:
 
 + I can get the IP address, language and operating system for my browser.
 
-## Example Usage:
+## Usage:
 
 ```
 https://carmen-chapa-fcc-request-header-parser.glitch.me/
